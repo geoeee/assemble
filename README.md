@@ -6,7 +6,7 @@ Book: 80X86汇编语言程序设计教程 杨季文
 
 ## Usage
 
-1. install dosbox in local and add to path
+1. [downlaod](https://www.dosbox.com/download.php?main=1) and install dosbox in local, add dosbox to path
 
 2. `make dos`  get into dos
 
