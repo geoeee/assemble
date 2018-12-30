@@ -1,0 +1,11 @@
+*.exe
+*.EXE
+*.obj
+*.OBJ
+
+!bin/*.EXE
+
+
+# for dosbox
+stderr.txt
+stdout.txt
